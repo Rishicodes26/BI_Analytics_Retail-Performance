@@ -4,33 +4,39 @@
 
 🔍 Overview
 
-This project presents an end-to-end retail analytics solution using the Superstore dataset. It combines data analysis, business intelligence, and machine learning to evaluate sales performance, profitability drivers, and operational risks.
+This project presents an end-to-end retail analytics solution using the Superstore dataset. It integrates data analysis and business intelligence to evaluate sales performance, profitability drivers, regional trends, and pricing risks through an interactive Power BI dashboard.
 
 🎯 Objectives
 
 1. Analyze sales and profit performance
-2. Identify revenue drivers and loss areas
-3. Evaluate impact of discounts on profitability
-4. Provide actionable business insights
-5. Develop a predictive model for profit estimation
+2. Identify key revenue drivers and high-margin categories
+3. Detect loss-making products and underperforming regions
+4. Evaluate the impact of discounting on profitability
+5. Deliver actionable insights for strategic decision-making
 
 🛠️ Tools & Technologies
 
 1. Python (Pandas, NumPy, Matplotlib, Seaborn)
-2. Google Colab
-3. Business Intelligence concepts
+2. Google Colab (Data Analysis)
+3. Power BI (Dashboard & Visualization)
+4. Business Intelligence & Data Analytics Concepts
 
 📈 Key Insights
 
-1. Technology category is the primary profit driver
-2. Heavy discounting significantly reduces profitability
-3. Certain furniture sub-categories generate consistent losses
-4. Regional performance varies widely
-5. Consumer segment contributes the largest revenue share
+1. Technology category is the primary revenue and profit driver
+2. Consumer segment contributes the largest share of sales
+3. Heavy discounting negatively impacts profitability
+4. Certain furniture sub-categories (e.g., Tables) generate losses
+5. Sales performance varies significantly across regions and states
 
 💼 Business Value
 
-The analysis demonstrates how data-driven insights can improve pricing strategy, product portfolio decisions, and regional performance management.
+This analysis demonstrates how data-driven insights can support:
+
+1. Pricing optimization and discount strategy
+2. Product portfolio improvements
+3. Regional performance management
+4. Profitability enhancement initiatives
 
 📂 Dataset - Superstore Sales Dataset (publicly available retail dataset)
 👨‍💻 Author - Debarshi Bhattacharya
