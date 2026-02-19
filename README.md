@@ -39,4 +39,3 @@ This analysis demonstrates how data-driven insights can support:
 4. Profitability enhancement initiatives
 
 📂 Dataset - Superstore Sales Dataset (publicly available retail dataset)
-👨‍💻 Author - Debarshi Bhattacharya
